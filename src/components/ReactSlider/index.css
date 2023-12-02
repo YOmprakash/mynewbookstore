@@ -1,0 +1,9 @@
+.slider-container {
+  padding: 40px;
+  color: aqua;
+}
+
+.slider-image {
+  width: 100%;
+  border-radius: 10px;
+}
